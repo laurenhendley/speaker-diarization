@@ -1,6 +1,6 @@
 # speaker-diarization
 
-This project explores both a traiditonal model and an LLM-backed speaker diarization using WhisperX and Pyannote.
+This project explores both a traditonal model and an LLM-backed speaker diarization using WhisperX, Pyannote, and DiarizationLM.
 
 ## Report
 - [View the full report (PDF)](report.pdf)
